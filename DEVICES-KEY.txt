@@ -1,0 +1,4 @@
+{
+    "device_id": "64a98f799415fc7a573be8f0_Temp_Humi_Gas_Detector",
+    "secret": "d6d6d2272f5b105ab48dbde22ca3ae70"
+}
